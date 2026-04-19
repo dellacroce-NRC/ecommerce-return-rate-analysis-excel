@@ -157,7 +157,7 @@ Provides a high-level view of:
 
 This view reflects how the business would typically be monitored by executives.
 
-![Business Overview Dashboard](dashboards/business_overview.png)
+![Business Overview Dashboard](dashboards/business_overview_dashboard.png)
 
 ---
 
@@ -172,7 +172,7 @@ Focuses on:
 
 This view reveals issues not visible in aggregate data.
 
-![Behavioral Insight Dashboard](dashboards/behavioral_insight.png)
+![Behavioral Insight Dashboard](dashboards/behavioral_insight_dashboard.png)
 
 ---
 
