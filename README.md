@@ -1,5 +1,4 @@
-# ecommerce-return-rate-analysis-excel
-Excel-based end-to-end e-commerce return rate analysis using Power Query and Power Pivot.
+# E-commerce Return Rate Analysis (Excel + Power Pivot)
 
 ## Overview
 
@@ -158,6 +157,8 @@ Provides a high-level view of:
 
 This view reflects how the business would typically be monitored by executives.
 
+![Business Overview Dashboard](dashboards/business_overview.png)
+
 ---
 
 ### 2. Behavioral Insight Dashboard
@@ -170,6 +171,8 @@ Focuses on:
 - Quantification of economic impact
 
 This view reveals issues not visible in aggregate data.
+
+![Behavioral Insight Dashboard](dashboards/behavioral_insight.png)
 
 ---
 
